@@ -44,4 +44,5 @@ Para executar o projeto localmente com o funcionamento completo, é necessário:
 ![Formulário de Orçamento](prints/formulario_1.png)
 
 2. Registro Salvo Automaticamente no `contatos.txt` (Back-end PHP)
+
 ![Dados salvos no contatos.txt](prints/formulario_2.png)
