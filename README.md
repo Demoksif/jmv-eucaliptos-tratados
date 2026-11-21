@@ -20,9 +20,9 @@ O site foi desenvolvido para a empresa "JMV Eucaliptos Tratados", com o objetivo
 
 Para executar o projeto localmente com o funcionamento completo, é necessário:
 
-**Servidor Web com suporte a PHP** (versão 7.4 ou superior), como **XAMPP**, **WAMP**, **Laragon** ou servidor embutido do PHP;
-**Navegador Web atualizado** (Google Chrome ou Microsoft Edge recomendados para suporte completo à animação de rolagem via CSS;
-Permissão de escrita na pasta raiz do projeto para criação/atualização automática do arquivo.
+- **Servidor Web com suporte a PHP** (versão 7.4 ou superior), como **XAMPP**, **WAMP**, **Laragon** ou servidor embutido do PHP;
+- **Navegador Web atualizado** (Google Chrome ou Microsoft Edge recomendados para suporte completo à animação de rolagem via CSS;
+- Permissão de escrita na pasta raiz do projeto para criação/atualização automática do arquivo.
 
 ## Instalação e Execução
 
